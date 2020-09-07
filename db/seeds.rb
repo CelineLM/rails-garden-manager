@@ -1,4 +1,5 @@
 Garden.destroy_all
+puts "all gardens destroyed"
 
 garden_names = [
   "French garden",
